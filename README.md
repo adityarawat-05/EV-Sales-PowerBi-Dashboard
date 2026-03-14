@@ -66,16 +66,6 @@ Interactive slicers allow users to filter data by:
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add a screenshot of your dashboard here)
-
-Example:
-
-![Dashboard Screenshot](screenshots/dashboard.png)
-
----
-
 ## 📊 Key Insights
 
 Some important insights derived from the dashboard include:
