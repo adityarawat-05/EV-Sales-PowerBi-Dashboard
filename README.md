@@ -98,9 +98,3 @@ This project was developed as part of the **Microsoft Elevate Internship Program
 
 **Aditya Rawat**
 
----
-
-## ⭐ If you found this project useful
-
-Please consider giving this repository a **star ⭐ on GitHub**.
-
